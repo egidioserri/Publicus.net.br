@@ -1,0 +1,3 @@
+[23-Jun-2020 16:38:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected '>' in /home1/braine29/amigoentregas.com.br/ajax/phpmailer/envia.php on line 53
+[11-Aug-2020 10:16:21 America/Fortaleza] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1654 but version 1650 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Aug-2020 10:16:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected '>' in /home1/braine29/publicus.net.br/ajax/phpmailer/envia.php on line 53
